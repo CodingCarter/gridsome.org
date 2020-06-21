@@ -101,7 +101,7 @@ export default {
   data () {
     return {
       otherPageData: null,
-      otherPageContext: null,
+      otherPageContext: null
     }
   },
   async mounted () {
